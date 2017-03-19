@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_a4121b964563dd2b9868d6f8b4331706495eb068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_378c122d2402052b0ce1b01de38609e6aff5c8af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding-support-v4\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="417b075934c24fa45ba94be0f451fd6dec69feb8">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-support-v4-0.4.0_172a0222c232113181583cbb9c6ba9604c25d6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4784957abacf1852b2194816a05b385465b507db">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12aad9e0082d1b4f2ecf680d13c2a947ce3bc791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_8cfa8047f9862f158b8bc71ae4ba285996d02c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_9f0756f1883505edfa0eb8cd08a069893e6bf9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding-design\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d875246afc9be5798bf65fd61fb42af06fee4553">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-design-0.4.0_2e7c9eb01829627a10831960d1f65108ec7c1a81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_2bf87fcdee0858c9a0922c460fff246ddaad68eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UberV\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.0_fe9e724de1a8f69c0db5a426751f935dced50f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Development\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_ae0a90d226703c4ca163b6aa2b4ee63da6a49845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UberV\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_c3ef65ff26814fda7fd51e076c360c3193772a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.f2prateek.rx.preferences\rx-preferences\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7763682508066c7f8117999de1f4937038519ce">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.f2prateek.rx.preferences-rx-preferences-1.0.1_ce6fcaac1d5d5d2501c93dbc4aa82d8cd42f6e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea051add0f1a7410ab6a8711ad2d06e78777a1a7">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f76bca0dca759aa97fc6ff3e1e9ac8737d8dc6c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding-appcompat-v7\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_7ab1bc00fcd4621a8fbd99d510d3f1c44cf0510c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_f283a935b45f2c0894cf46199cb7ad978f93ea21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding-recyclerview-v7\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ccbcc431e5d95ee2cf2783128700f32222dca3">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-recyclerview-v7-0.4.0_7a2cb528d07b0e0e4746007cdb8f0ebd03dd8b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\RxTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Workspace\Android\RxTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_234f0609b161c7c69b3a320e4d68d8a614200a0a\classes.dex" />
+    </item>
+
+</items>
